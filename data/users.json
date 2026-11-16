@@ -1,0 +1,16 @@
+[
+  {
+    "id": "911ab6a1-9237-4920-ad98-9bc6d1777099",
+    "name": "nandan pandey",
+    "email": "nandankumarpandey270@gmail.com",
+    "password": "$2b$12$hakPdfOaVXl4hgyqI413duvBA0DVUQXiwtwpy.bgbhOXEAjdXnSHi",
+    "createdAt": "2026-11-16T17:24:38.573Z"
+  },
+  {
+    "id": "de03f8db-8a40-413a-9d9f-c8f9d590bf99",
+    "name": "ankit kumar",
+    "email": "ankitk38390@gmail.com",
+    "password": "$2b$12$vB290frjHpKrzBjgxQAz1.8tPAZYrIeFFnjy2L1J.ZMgmFn2AWTie",
+    "createdAt": "2026-11-16T17:31:47.358Z"
+  }
+]
